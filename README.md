@@ -1,4 +1,4 @@
-# [魔戒机场官网+持续更新](https://mojie.best/#/register?code=Pvs1RARA)
+# [魔戒机场官网+持续更新](https://mojie.app/register?aff=DZ3zqKF1)
 
 ## 简介
 
@@ -13,7 +13,7 @@
 
 ## 魔戒机场优惠码
 
-目前暂无优惠码，建议关注 [魔戒机场官网](https://mojie.best/#/register?code=Pvs1RARA) 获取最新信息。
+目前暂无优惠码，建议关注 [魔戒机场官网](https://mojie.app/register?aff=DZ3zqKF1) 获取最新信息。
 
 
 ## 魔戒机场价格
