@@ -2,7 +2,7 @@
 
 ## 按量计费不限制到期时间、人数、网速等
 
-用多少扣多少，稳定性不错。 ChatGPT、Gemini、Claude 等都可以正常登录使用
+用多少扣多少，稳定性不错。 ChatGPT、Gemini、Claude、YouTube、Netflix 等都可以正常登录使用
 
 ## 简介
 
