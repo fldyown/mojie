@@ -21,7 +21,7 @@
 
 ## 魔戒机场优惠码
 
-目前暂无优惠码，建议关注 [魔戒机场官网](https://mojie.app/register?aff=DZ3zqKF1) 获取最新信息。
+建议关注 [魔戒机场官网](https://mojie.app/register?aff=DZ3zqKF1) 获取最新信息。
 
 ![最新官网套餐](mojie.app.jpeg)
 
