@@ -1,4 +1,4 @@
-# [魔戒机场新官网 最新官网](https://mojie.app/register?aff=DZ3zqKF1)
+# [魔戒机场最新官网](https://mojie.app/register?aff=DZ3zqKF1)
 
 ## 支付
 
