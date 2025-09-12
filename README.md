@@ -6,7 +6,7 @@
 
 ## 按量计费不限制到期时间、人数、网速等
 
-仅访问外网时才会使用流量，稳定性不错。 ChatGPT、Gemini、Claude、YouTube、Netflix 等都可以正常登录使用
+仅访问外网时才会使用流量，稳定可靠。 ChatGPT、Gemini、Claude、YouTube、Netflix 等都可以正常登录使用
 
 ## 简介
 
