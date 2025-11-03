@@ -2,11 +2,11 @@
 
 ## 支付
 
-支持支付宝、微信、加密货币等方式购买流量
+支持使用支付宝、微信、加密货币等方式购买流量
 
 ## 按量计费不限制到期时间、人数、网速等
 
-仅访问外网时才会使用流量，稳定可靠。 ChatGPT、Gemini、Claude、YouTube、Netflix 等都可以正常登录使用
+仅访问外网时才会使用流量、稳定可靠。 ChatGPT、Gemini、Claude、YouTube、Netflix 等都可以正常登录使用
 
 ## 简介
 
