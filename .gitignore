@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+.env.local
