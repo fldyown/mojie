@@ -1,7 +1,7 @@
 # 魔戒机场 — 2026 高性价比按量计费科学上网代理推荐
 
 [![Website](https://img.shields.io/badge/官网-mojie.app-blue)](https://mojie.app/register?aff=DZ3zqKF1)
-[![Protocol](https://img.shields.io/badge/协议-VMess%20%7C%20Hysteria2%20%7C%20AnyTLS-orange)]()
+[![Protocol](https://img.shields.io/badge/协议-VMess%20%7C%20Hysteria2%20%7C%20AnyTLS-orange)](#全球节点覆盖)
 [![Payment](https://img.shields.io/badge/支付-支付宝%20%7C%20微信%20%7C%20加密货币-green)]()
 [![Price](https://img.shields.io/badge/计费-按量计费%20不限时间-green)]()
 
@@ -114,7 +114,8 @@
 在 Clash 客户端中开启 **自动选择 / 延迟测试** 功能，系统会自动选择延迟最低的节点。推荐的客户端：
 
 - **Clash Verge Rev**（Windows/macOS/Linux）— [GitHub 下载](https://github.com/clash-verge-rev/clash-verge-rev)
-- **Stash**（iOS）— App Store 付费下载
+- **Mihomo Party**（Windows/macOS/Linux）— [GitHub 下载](https://github.com/mihomo-party-org/clash-party)
+- **Stash**（iOS）— [App Store](https://apps.apple.com/cn/app/stash-rule-based-proxy/id1596063349) 付费下载
 - **Clash Meta for Android** — [GitHub 下载](https://github.com/MetaCubeX/ClashMetaForAndroid)
 
 ---
@@ -136,7 +137,7 @@
 - ✅ Netflix — 各区域库解锁（美区、日区、港区）
 - ✅ Spotify — 高音质音乐
 - ✅ Disney+ — 迪士尼、漫威、星球大战
-- ✅ HBO Max — 美剧、电影
+- ✅ Max（原 HBO Max）— 美剧、电影
 - ✅ Amazon Prime Video
 - ✅ Apple TV+
 
@@ -151,7 +152,7 @@
 ### 📚 学术 & 研究
 - ✅ Google Scholar — 学术文献
 - ✅ arXiv — 预印本论文
-- ✅ IEEE Xplore — 电子电气工程
+- ✅ IEEE Xplore — 电气与电子工程文献
 - ✅ PubMed — 医学文献
 - ✅ Coursera / Udemy — 在线课程
 - ✅ Wikipedia — 自由百科
@@ -181,8 +182,9 @@
 | 平台 | 推荐客户端 | 下载链接 |
 |------|-----------|---------|
 | Windows / macOS | Clash Verge Rev | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| Windows / macOS | Mihomo Party | [GitHub](https://github.com/mihomo-party-org/clash-party) |
 | Android | Clash Meta for Android | [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid) |
-| iOS | Stash | App Store 购买 |
+| iOS | Stash | [App Store](https://apps.apple.com/cn/app/stash-rule-based-proxy/id1596063349) 购买 |
 | Linux | Clash Verge Rev | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
 | OpenWrt | OpenClash | 插件商店安装 |
 
@@ -203,7 +205,7 @@
 - **手动选择**：逐节点测试延迟，选择最快的
 - **自动选择**：让 Clash 自动根据延迟选择最佳节点
 - **按地区选择**：上 YouTube 选日本节点，上 ChatGPT 选香港/美国节点
-- **按需求选择**：游戏用香港节点，流媒体用日本节点，AI 用美国节点
+- **按需求选择**：游戏用香港节点，流媒体用日本节点，AI 用香港/美国节点
 
 ### 在路由器上使用
 
