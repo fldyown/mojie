@@ -1,13 +1,13 @@
 # 魔戒机场 — 2026 高性价比按量计费科学上网代理推荐
 
-[![Website](https://img.shields.io/badge/官网-mojie.app-blue)](https://mojie.app/register?aff=DZ3zqKF1)
+[![Website](https://img.shields.io/badge/官网-mojie.host-blue)](https://mojie.host/register?aff=DZ3zqKF1)
 [![Protocol](https://img.shields.io/badge/协议-VMess%20%7C%20Hysteria2%20%7C%20AnyTLS-orange)](#全球节点覆盖)
 [![Payment](https://img.shields.io/badge/支付-支付宝%20%7C%20微信%20%7C%20加密货币-green)]()
 [![Price](https://img.shields.io/badge/计费-按量计费%20不限时间-green)]()
 
 > ✅ **2026 年最值得推荐的科学上网代理** — 按量计费 · 不限时间 · 不限速 · 不限设备 · 支持 ChatGPT / Netflix / YouTube 等主流 AI 及流媒体服务
 
-👉 **[立即注册魔戒机场 · 领取专属订阅](https://mojie.app/register?aff=DZ3zqKF1)** 👈
+👉 **[立即注册魔戒机场 · 领取专属订阅](https://mojie.host/register?aff=DZ3zqKF1)** 👈
 
 ---
 
@@ -79,7 +79,7 @@
 
 > 💡 **首次购买建议**：先选 130G（¥19.90）试用速度和稳定性，满意后再续大流量包。一杯奶茶钱即可开启科学上网之旅。
 
-👉 **[点击此处注册魔戒机场](https://mojie.app/register?aff=DZ3zqKF1)** — 注册即享新人优惠
+👉 **[点击此处注册魔戒机场](https://mojie.host/register?aff=DZ3zqKF1)** — 注册即享新人优惠
 
 ![魔戒机场套餐](assets/pricing.png)
 
@@ -165,7 +165,7 @@
 
 ### 第一步：注册账号
 
-👉 **[点击此处注册魔戒机场](https://mojie.app/register?aff=DZ3zqKF1)** 👈
+👉 **[点击此处注册魔戒机场](https://mojie.host/register?aff=DZ3zqKF1)** 👈
 
 支持支付宝和微信支付，注册仅需 30 秒。
 
@@ -276,9 +276,9 @@
 
 > **限时优惠**：通过下方链接注册，即可享受最新优惠套餐！
 
-👉 **[>> 点击前往魔戒机场官网 <<](https://mojie.app/register?aff=DZ3zqKF1)**
+👉 **[>> 点击前往魔戒机场官网 <<](https://mojie.host/register?aff=DZ3zqKF1)**
 
-[![魔戒机场](assets/pricing.png)](https://mojie.app/register?aff=DZ3zqKF1)
+[![魔戒机场](assets/pricing.png)](https://mojie.host/register?aff=DZ3zqKF1)
 
 **为什么魔戒机场值得信赖？**
 - 🏆 数千名用户的共同选择
@@ -288,7 +288,7 @@
 - 🚀 持续优化节点，保障速度
 - 📦 新用户首次购买享优惠
 
-👉 **[立即开始你的科学上网之旅](https://mojie.app/register?aff=DZ3zqKF1)**
+👉 **[立即开始你的科学上网之旅](https://mojie.host/register?aff=DZ3zqKF1)**
 
 ---
 
