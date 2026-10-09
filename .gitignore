@@ -11,11 +11,3 @@ ehthumbs.db
 .idea/
 .vscode/
 *.sublime-*
-
-# Node
-node_modules/
-npm-debug.log*
-
-# Env
-.env
-.env.local
